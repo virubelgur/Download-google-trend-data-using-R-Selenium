@@ -15,7 +15,7 @@ webelm58<-remDr$findElement("class","csv-image")
 webelm58$clickElement()
 
 
-setwd('C:/Users/Viru/Downloads')
+setwd('C:/Users/***/Downloads')
 
 mydata <- read.csv("multiTimeline.csv")
 
